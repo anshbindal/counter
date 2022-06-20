@@ -19,7 +19,7 @@ function App() {
       <Button variant="primary" onClick={incrementCounter}>
         Increment
       </Button>{" "}
-      <Button variant="secondary" onClick={decrementCounter}>
+      <Button variant="danger" onClick={decrementCounter}>
         Decrement
       </Button>{" "}
     </div>
